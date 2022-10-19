@@ -1,0 +1,21 @@
+    body {
+        background-color:powderblue;
+    }
+    hr {
+        background-color:powderblue;
+        border-color: gray;
+        border-top-style:dotted;
+        border-bottom-style:none;
+        border-left-style:none;
+        border-right-style:none;
+        border-width:6px;
+        height:2px;
+        width:50px;
+    }
+    h1 {
+        color:#66BFBF;
+    }
+
+    h3{
+        background-color:#66BFBF;
+    }
